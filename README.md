@@ -1,9 +1,11 @@
 # Hi there 👋 I'm Lovis Tawiah
----
- ## 🌐 Full-Stack Developer | 📚 Keen Reader | 🧠 Passionate Learner 
+
+## 🌐 Backend Web developer | 📚 Keen Reader | 🧠 Passionate Learner
 
  Hello! I'm Lovis Tawiah, a versatile Full-Stack Developer with a passion for crafting both robust backend systems and user-friendly frontend applications. My mission? To excel in the art of building end-to-end web and desktop solutions.
- ## Technologies
+
+## Technologies
+
 <section style="display:flex; justify-content:space-around;">
 <img src="./img/javascript-plain.svg" alt="javascript" width="50px" height="50px" />
 <img src="./img/nodejs-original.svg" alt="javascript" width="50px" height="50px" />
@@ -20,12 +22,15 @@
 <img src="./img/visual-studio-code.svg" alt="javascript" width="50px" height="50px" />
 </section>
 
-## 😃 Currently 
-### building 
+## 😃 Currently
+
+### building
+
  1. You and I chat web app
- 2.  Accon web app
+ 2. Accon web app
 
 ### learning
+
 - advanced typeScript on [Frontend Masters](https://frontendmasters.com/)
 
 <a href="https://github.com/lovistawiah/">
