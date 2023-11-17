@@ -7,22 +7,18 @@
 ## Technologies
 
 <section style="display:flex; justify-content:space-around;">
-
 <section style ="display: flex; flex-direction: column; justify-content: center;">
 <img src="./img/javascript-plain.svg" alt="javascript" width="50px" height="50px" />
 <p>JavaScript</p>
 </section>
-
 <section style ="display: flex; flex-direction: column; justify-content: center;">
 <img src="./img/nodejs-original.svg" alt="javascript" width="50px" height="50px" />
 <p>Node js</p>
 </section>
-
 <section style ="display: flex; flex-direction: column; justify-content: center;">
 <img src="./img/react-original.svg" alt="javascript" width="50px" height="50px" />
 <p>React js</p>
 </section>
-
 <section style ="display: flex; flex-direction: column; justify-content: center;">
 <img src="./img/nextjs-original.svg" alt="javascript" width="50px" height="50px" />
 <p>Next js</p>
@@ -31,22 +27,18 @@
 <img src="./img/electron-original.svg" alt="javascript" width="50px" height="50px" />
 <p>Electron js</p>
 </section>
-
 <section style ="display: flex; flex-direction: column; justify-content: center;">
 <img src="./img/mongodb-original.svg" alt="javascript" width="50px" height="50px" />
 <p>Mongo Db</p>
 </section>
-
 <section style ="display: flex; flex-direction: column; justify-content: center;">
 <img src="./img/postgresql-original.svg" alt="javascript" width="50px" height="50px" />
 <p>PostgreSQL</p>
 </section>
-
 <section style ="display: flex; flex-direction: column; justify-content: center;">
 <img src="./img/html5-original.svg" alt="javascript" width="50px" height="50px" />
 <p>HTML 5</p>
 </section>
-
 <section style ="display: flex; flex-direction: column; justify-content: center;">
 <img src="./img/css3-original.svg" alt="javascript" width="50px" height="50px" />
 <p>CSS 3</p>
@@ -55,11 +47,9 @@
 <img src="./img/tailwind-css.svg" alt="javascript" width="50px" height="50px" />
 <p>Tailwind css</p>
 </section>
-
 <section style ="display: flex; flex-direction: column; justify-content: center;">
 <img src="./img/git-original.svg" alt="javascript" width="50px" height="50px" />
 <p>Git</p>
-
 </section>
 </section>
 
