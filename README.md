@@ -6,7 +6,7 @@ Hello! I'm Lovis Tawiah, a Backend Web Developer with a passion for crafting rob
 
 ## Technologies
 
-<div style="display:flex;  width:100%; justify-content:space-evenly;">
+<div style="display: grid; grid-auto-flow: column;">
 
 <div style ="display: flex; flex-direction: column; justify-content: center;">
 <img src="./img/javascript-plain.svg" alt="javascript" width="50px" height="50px" />
