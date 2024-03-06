@@ -1,69 +1,71 @@
-# Hi there 👋 I'm Lovis Tawiah
+# <center>Hi there 👋, I'm Lovis Tawiah </center>
 
-## 🌐 Backend Web developer | 📚 Keen Reader | 🧠 Passionate Learner
+---
 
-Hello! I'm Lovis Tawiah, a Backend Web Developer with a passion for crafting robust backend systems for web applications and have little experience building user-friendly frontend applications. My mission? To excel in the art of building backend web and desktop application.
+## <center> 🌐 Backend Web Engineer | 📚 Keen Reader | 🧠 Passionate Learner </center>
+
+I'm Lovis Tawiah, a Backend Web Engineer with a passion for crafting robust backend systems for web applications and have little experience building user-friendly frontend applications. My mission? To excel in the art of building backend web and desktop application.
 
 ## Technologies
 
-<div style="display: grid; grid-auto-flow: column;">
+<section style="display: flex; justify-content: space-evenly;">
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
-<img src="./img/javascript-plain.svg" alt="javascript" width="50px" height="50px" />
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
+<img src="./img/javascript-plain.svg" alt="javascript" width="50px" height="50px" style="" />
 <p>JavaScript</p>
 </div>
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
 <img src="./img/nodejs-original.svg" alt="javascript" width="50px" height="50px" />
 <p>Node js</p>
 </div>
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
 <img src="./img/react-original.svg" alt="javascript" width="50px" height="50px" />
 <p>React js</p>
 </div>
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
 <img src="./img/nextjs-original.svg" alt="javascript" width="50px" height="50px" />
 <p>Next js</p>
 </div>
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
 <img src="./img/electron-original.svg" alt="javascript" width="50px" height="50px" />
 <p>Electron js</p>
 </div>
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
 <img src="./img/mongodb-original.svg" alt="javascript" width="50px" height="50px" />
 <p>Mongo Db</p>
 </div>
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
 <img src="./img/postgresql-original.svg" alt="javascript" width="50px" height="50px" />
 <p>PostgreSQL</p>
 </div>
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
 <img src="./img/html5-original.svg" alt="javascript" width="50px" height="50px" />
 <p>HTML 5</p>
 </div>
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
 <img src="./img/css3-original.svg" alt="javascript" width="50px" height="50px" />
 <p>CSS 3</p>
 </div>
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
 <img src="./img/tailwind-css.svg" alt="javascript" width="50px" height="50px" />
 <p>Tailwind css</p>
 </div>
 
-<div style ="display: flex; flex-direction: column; justify-content: center;">
+<div style ="display: flex; flex-direction: column; justify-content: center; width: fit-content;">
 <img src="./img/git-original.svg" alt="javascript" width="50px" height="50px" />
 <p>Git</p>
 </div>
 
-</div>
+</section>
 
 ## 😃 Currently
 
