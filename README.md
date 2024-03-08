@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lovis Tawiah
 
-## 🌐 Backend Web Engineer | 📚 Keen Reader | 🧠 Passionate Learner
+## 🌐 Backend Software Engineer | 📚 Keen Reader | 🧠 Passionate Learner
 
 👋, Hey there! I'm Lovis Tawiah, a Backend Web Engineer. I really enjoy building strong backend systems that make websites work well. I use **JavaScript** a lot because it helps me create cool stuffs that work smoothly.
 
