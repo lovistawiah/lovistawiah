@@ -11,7 +11,8 @@
 
 🧠 **Passions:**
 
-- I'm a voracious reader; you might find me diving into "Don't Make Me Think" during my breaks.
+- I'm a keen reader; you might find me diving into **Self help** and dev blogs like [Dev.to](https://dev.to/).
+- On GitHub reading code patterning my skills.
 - I thrive on debate fueled by facts, not guesses.
 - Business strategy is always top of mind for me; I'm constantly exploring opportunities and turning them into reality.
 
