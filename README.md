@@ -1,12 +1,49 @@
 # Hi there 👋, I'm Lovis Tawiah
 
-## 🌐 Backend Software Engineer | 📚 Keen Reader | 🧠 Passionate Learner
+## 🌐 Backend Web Developer | 📚 Keen Reader | 🧠 Passionate Learner
 
-👋, Hey there! I'm Lovis Tawiah, a Backend Web Engineer. I really enjoy building strong backend systems that make websites work well. I use **JavaScript** a lot because it helps me create cool stuffs that work smoothly.
+🚀 **About Me:**
 
-Even though I mostly focus on making the behind-the-scenes part of websites awesome, I'm also learning how to make the parts that people see look nice and easy to use.
+- I'm not your average junior dev; I'm all about breaking, fixing, and improving things.
+- My journey with technology started at my grandpa's room, swapping hard disks and memory chips in system units.
+- I learn tools to solve problems, not just to spice up my resume. Time isn't a concern when I'm coding; it's all about the craft.
+- Casual dressing is my jam; it lets me think and express myself freely.
 
-Outside of coding, I love reading business and self-help books. My all-time favorite book is **The 7 Habits of Highly Effective People** by _Stephen R. Covey_
+🧠 **Passions:**
+
+- I'm a voracious reader; you might find me diving into "Don't Make Me Think" during my breaks.
+- I thrive on debate fueled by facts, not guesses.
+- Business strategy is always top of mind for me; I'm constantly exploring opportunities and turning them into reality.
+
+🤖 **Tech Enthusiast:**
+
+- From my first computer encounter at age 13 to self-taught JavaScript Developer, I'm all in.
+- I've dabbled in a myriad of languages and frameworks, from C to React, always driven by project needs, not resume padding.
+- Git and GitHub are my second nature; Docker, Testing and CI/CD are on my learning roadmap.
+
+🌱 **Current Focus:**
+
+- I'm currently building "You and I," an open-source chat project that's been my passion project for months.
+- Complex projects are my playground; I embrace the challenge and keep pushing until I hit the mark.
+
+🌟 **Inspiration:**
+
+- I draw inspiration from [Primeagen](https://x.com/ThePrimeagen) and [Kyle Simpson](https://me.getify.com/); their blend of crazy and intelligence resonates deeply with me.
+
+💬 **Let's Connect:**
+
+- I'm always up for sharing and discussing ideas, whether they're local projects or potential game-changers on an international scale. Who knows? Our next conversation could spark the birth of a new company.
+
+👀 **Fun Fact:**
+
+- I once ranked 14th in JavaScript globally on the Wakatime leaderboard, with an average coding time of 9 hours and 32 minutes.
+
+🔗 **Connect with Me:**
+
+- [GitHub](https://github.com/YourGitHubHandle)
+- [LinkedIn](https://linkedin.com/in/YourLinkedInProfile)
+
+Feel free to reach out; let's collaborate and create something awesome together!
 
 ## Language and Tools
 
