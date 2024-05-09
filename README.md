@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lovis Tawiah
 
-## 🌐 Backend Web Developer | 📚 Keen Reader | 🧠 Passionate Learner
+## 🌐 Software Engineer | 📚 Keen Reader | 🧠 Passionate Learner
 
 🚀 **About Me:**
 
